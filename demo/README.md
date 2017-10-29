@@ -11,7 +11,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Usage
 
-I got the local authorization by connecting to Advanced rest client and launched an example of the request , so he will ask for username and passeword which are : `auth = ("ZXJBZKBPC1MPNKRC", "Y2K113M9SYN18JTM")` , they are public.
+I got the local authorization by connecting to Advanced rest client and launched an example of the request , so he will ask for username and passeword which are : `auth = ("ZXJBZKBPC1MPNKRC", "Y2K113M9SYN18JTM")` , they are public. You can use it
 
 ## Templating
 
