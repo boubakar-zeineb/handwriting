@@ -1,13 +1,16 @@
-# Demo Deployment for Handwriting
+# Handwriting demo
+
+## Demo Deployment
 
 For a demo you can visit this link : https://libretrend-2657f.firebaseapp.com/
 The project is deployed on firebase.
 The handwriting.io have problem on the website, we can't use the api so you will be unauthorized maybe.
 Did all my best for this project to generate something.
 
-## Development server
+## Divers
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The api is not accessible , they have a problem in their website, no one can connect, even when i contacted them, without answer.
+So some things are static like the "dropdown" ( the list of the handwritings )
 
 ## Usage
 
