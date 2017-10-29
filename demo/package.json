@@ -1,5 +1,5 @@
 {
-  "name": "libretrend",
+  "name": "demo",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^4.2.4",
+    "@angular/animations": "^4.4.6",
     "@angular/common": "^4.2.4",
     "@angular/compiler": "^4.2.4",
     "@angular/core": "^4.2.4",
@@ -21,7 +21,12 @@
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
+    "angular4-color-picker": "^1.4.2",
+    "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
+    "ngx-bootstrap": "^1.9.3",
+    "primeng": "^4.1.0",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
   },
