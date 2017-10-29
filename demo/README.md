@@ -1,28 +1,26 @@
-# Demo
+# Demo Deployment for Handwriting
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+For a demo you can visit this link : https://libretrend-2657f.firebaseapp.com/
+The project is deployed on firebase.
+The handwriting.io have problem on the website, we can't use the api so you will be unauthorized maybe.
+Did all my best for this project to generate something.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+I got the local authorization by connecting to Advanced rest client and launched an example of the request , so he will ask for username and passeword which are : `auth = ("ZXJBZKBPC1MPNKRC", "Y2K113M9SYN18JTM")` , they are public.
 
-## Build
+## Templating
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+For the design , [PRIME NG](https://www.primefaces.org/) is used with bootstrap 4 and font-awesome, because it contains a lot of components flexible and usefull tools.
 
-## Running unit tests
+## Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Alt text](https://github.com/boubakar-zeineb/handwriting/blob/master/demo/src/assets/CapturePDF.PNG?raw=true "PDF VIEW")
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+![Alt text](https://github.com/boubakar-zeineb/handwriting/blob/master/demo/src/assets/CapturePNG.PNG?raw=true "PNG VIEW")
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
